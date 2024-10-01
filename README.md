@@ -50,4 +50,7 @@ Diseños propuestos para el proyecto.
 
 
 ## Activitys de registro y Login
-![RegisterAndLoginScreen](https://github.com/user-attachments/assets/09b75198-2e89-4d5b-8c4e-53029adb1a73)
+![image](https://github.com/user-attachments/assets/9e859fa6-8516-4056-b02d-0c1e97757549)
+
+## Página principal
+![image](https://github.com/user-attachments/assets/675aa21e-63fd-4253-b2ea-81b6cb89eba2) 
