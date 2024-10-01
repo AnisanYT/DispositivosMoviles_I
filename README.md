@@ -46,6 +46,7 @@ Diseños propuestos para el proyecto.
 | Botones | ![#26292B](https://via.placeholder.com/10/26292B?text=+) #26292B |
 | Links o elementos interactivos | ![#A2B2EE](https://via.placeholder.com/10/A2B2EE?text=+) #A2B2EE |
 | Texto | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
+| Decorado con 10% de opacidad | ![#D9D9D9](https://via.placeholder.com/10/D9D9D9?text=+) #D9D9D9 |
 
 
 ## Activitys de registro y Login
