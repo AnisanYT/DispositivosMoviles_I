@@ -46,7 +46,11 @@ Diseños propuestos para el proyecto.
 | Botones | ![#26292B](https://via.placeholder.com/10/26292B?text=+) #26292B |
 | Links o elementos interactivos | ![#A2B2EE](https://via.placeholder.com/10/A2B2EE?text=+) #A2B2EE |
 | Texto | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
+| Decorado con 10% de opacidad | ![#D9D9D9](https://via.placeholder.com/10/D9D9D9?text=+) #D9D9D9 |
 
 
 ## Activitys de registro y Login
-![RegisterAndLoginScreen](https://github.com/user-attachments/assets/09b75198-2e89-4d5b-8c4e-53029adb1a73)
+![image](https://github.com/user-attachments/assets/9e859fa6-8516-4056-b02d-0c1e97757549)
+
+## Página principal
+![image](https://github.com/user-attachments/assets/675aa21e-63fd-4253-b2ea-81b6cb89eba2) 
