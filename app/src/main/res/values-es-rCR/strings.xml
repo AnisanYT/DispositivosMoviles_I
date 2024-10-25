@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DevHub</string>
+    <string name="txt_email_login">Correo Electrónico</string>
+    <string name="txt_password_login">Contraseña</string>
+    <string name="txt_olvida_passwd">¿Olvidaste tu contraseña?</string>
+    <string name="txt_login_button">Iniciar Sesión</string>
+    <string name="txt_register_button">Registrar</string>
+    <string name="txt_psswd_retype">Confirmar contraseña</string>
+    <string name="txt_profile_item">Perfil</string>
+    <string name="txt_Hello">Hola</string>
+    <string name="txt_Welcome">¡Bienvenido de nuevo!</string>
+    <string name="txt_temp_user">Usuario</string>
+    <string name="btn_coder_mode">Modo código</string>
+    <string name="btn_post">Postear</string>
+</resources>

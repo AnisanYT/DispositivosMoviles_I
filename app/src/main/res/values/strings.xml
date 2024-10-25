@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DevHub</string>
+    <string name="txt_email_login">Email</string>
+    <string name="txt_password_login">Password</string>
+    <string name="txt_olvida_passwd">Forgot password</string>
+    <string name="txt_login_button">Log In</string>
+    <string name="txt_register_button">Register</string>
+    <string name="txt_psswd_retype">Confirm your password</string>
+    <string name="txt_profile_item">Profile</string>
+    <string name="txt_Hello">Hello</string>
+    <string name="txt_Welcome">Welcome back!</string>
+    <string name="txt_temp_user">User</string>
+    <string name="btn_coder_mode">Coder Mode</string>
+    <string name="btn_post">Post</string>
+</resources>
