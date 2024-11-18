@@ -14,13 +14,14 @@ class Util {
             val intent = Intent(context, objClass).apply { putExtra(keyName, value) }
             startActivity(context, intent, null)
         }
+        fun generateUniqueId(): String {
+            return UUID.randomUUID().toString()
+        }
+
+        fun isValidEmail(email: String): Boolean {
+            return email.contains("@")
+        }
     }
 
-    fun generateUniqueId(): String {
-        return UUID.randomUUID().toString()
-    }
 
-    fun isValidEmail(email: String): Boolean {
-        return email.contains("@")
-    }
 }
