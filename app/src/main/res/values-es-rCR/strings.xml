@@ -13,4 +13,14 @@
     <string name="txt_temp_user">Usuario</string>
     <string name="btn_coder_mode">Modo código</string>
     <string name="btn_post">Postear</string>
+    <string name="msg_wrong_email">¡Algo falló con Email!</string>
+    <string name="msg_wrong_pswd">¡Algo falló con la contraseña!</string>
+    <string name="txt_user_name">Nombre de usuario</string>
+    <string name="option_gallery">Galería</string>
+    <string name="option_camera">Cámara</string>
+    <string name="choice_option">Elige una opción</string>
+    <string name="msg_wrong_userN">¡Algo falló con el Nombre de Usuario!</string>
+    <string name="msg_success">¡Exitoso!</string>
+    <string name="duplicateTXTemail">Correo electroinico ya existe.</string>
+    <string name="badcredentials">Credenciales incorrectas</string>
 </resources>

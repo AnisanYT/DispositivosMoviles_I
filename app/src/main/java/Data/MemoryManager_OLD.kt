@@ -5,25 +5,18 @@ import Entities.Post
 import Entities.User
 import Model.CommentModel
 import Model.PostModel
-import Model.UserModel
-import android.content.Context
+import Model.UserModel_withOut_SQLite
 
-object MemoryManager {
-    private lateinit var userModel: UserModel
-    private lateinit var postModel: PostModel
-    private lateinit var commentModel: CommentModel
-
-    fun initialize(context: Context) {
-        userModel = UserModel(context)
-        postModel = PostModel()
-        commentModel = CommentModel()
-    }
+object ManagerMemory {
+    private val userModel = UserModel_withOut_SQLite()
+    private val postModel = PostModel()
+    private val commentModel = CommentModel()
 
     fun addUser(user: User) {
         userModel.add(user)
     }
 
-    fun getUserById(id: String): User? {
+    fun getUser(id: String): User? {
         return userModel.getById(id)
     }
 
@@ -35,15 +28,14 @@ object MemoryManager {
         postModel.addPost(post)
     }
 
-    fun getPostById(id: String): Post? {
+    fun getPost(id: String): Post? {
         return postModel.getPostById(id)
     }
 
     fun addComment(comment: Comment) {
         commentModel.addComment(comment)
     }
-
-    fun getCommentById(id: String): Comment? {
+    fun getComment(id: String): Comment? {
         return commentModel.getCommentById(id)
     }
 }
